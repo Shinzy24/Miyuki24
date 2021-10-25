@@ -7,21 +7,11 @@ from urllib2 import urlopen
 from cek_opsi import cek_opsi
 reload(sys)
 sys.setdefaultencoding('utf8')
-"""   Terimaksih Untuk Semuanya   """
-#####################################
 
-
-"""
-
-Pastikan Jangan Ubah Bot Follownya !
+# Pastikan Jangan Ubah Bot Follownya !
 Kalo Mau Tinggal Tambahin Faham?
 Dan Jika Ingin Di Ganti Izin Dulu :v
-
- 				  """
-				  
-				  
-#####################################
-\x1b[1;96m[\x1b[1;97m#\x1b[1;96m]\x1b[1;97m——————————————————————————————
+Logo = ("""\033[1;97m
 \x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m au : m.zainul umam
 \x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m fb : fb.com/shinzy
 \x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m gh : github.com/shinzy24
