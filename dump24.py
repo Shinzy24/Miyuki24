@@ -40,12 +40,7 @@ ua_lenovo=('Mozilla/5.0 (Linux; Android 9; Lenovo TB-8705F) AppleWebKit/537.36 (
 ua=random.choice([ua_nokia,ua_xiaomi,ua_samsung,ua_macos,ua_vivo,ua_oppo,ua_huawei,ua_redmi4a,ua_vivoy12,ua_nokiax,ua_asus,ua_galaxys10,ua_lenovo])
 
 # Logo
-___logo___ = ("""____  _     _             _____
-/ ___|| |__ (_)_ __ __  __|__  /   _
-\___ \| '_ \| | '_ \\ \/ /  / / | | |
- ___) | | | | | | | |>  <  / /| |_| |
-|____/|_| |_|_|_| |_/_/\_\/____\__, |
-                               |___/"""%(H,H,P,P))
+___logo___ = ("""DUMP"""%(H,H,P,P))
 
 # Penampung
 loop = 0
